@@ -1,0 +1,16 @@
+body{
+    background-color: #E0FFFF;
+}
+
+a {
+    font-size: large;
+    word-break: break-all;
+}
+
+#card{
+    display: inline-block;
+}
+#menu{
+    background-color: blueviolet;
+
+}
